@@ -23,12 +23,12 @@ jobs:
         run: npm install github-contribution-grid-snake
 
       - name: Generate Snake GitHub Contribution Graph
-        run: npx github-contribution-grid-snake
+        run: npx github-contribution-grid-snake --username 0marKhan --theme default --color "#40C463"
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "Your Name"
-          git config --global user.email "youremail@example.com"
+          git config --global user.name "0marKhan"
+          git config --global user.email "omakhan98@gmail.com"
           git add .
           git commit -m "Update Snake GitHub Contribution Graph"
           git push
