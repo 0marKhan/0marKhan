@@ -60,7 +60,7 @@ hobbies: ["Basketball", "Music", "Gaming"]
 
 
 ### Your GitHub History 📈
-<img src="https://github-readme-stats.vercel.app/api?username=0marKhan&show_icons=true&theme=tokyonight" alt=stats width="450" height="195"/>
+<img src="https://github-readme-stats.vercel.app/api?username=0marKhan&show_icons=true&theme=tokyonight" alt=stats width="400" height="195"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0marKhan&show_icons=true&theme=tokyonight&layout=compact" alt="Top Langs" width="405" height="195" />
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
