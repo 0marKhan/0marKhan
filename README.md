@@ -14,6 +14,24 @@ Web Developer
     </a>!
 <br><br><br>
 
+### About Me🧍
+```yaml
+name: Omar Khan
+located_in: Islamabad, Pakistan
+current_job: Student
+education:
+  [
+    "Self taught Developer and Designer",
+    "Bachelors in Computer Science"
+  ]
+  
+ fields_of_interest:
+  [
+    "Web Development",
+    "UI/UX"
+  ]
+```
+
 ### <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
