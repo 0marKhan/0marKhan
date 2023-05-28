@@ -51,3 +51,6 @@ hobbies: ["Basketball", "Music", "Gaming"]
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+### Your GitHub History 📈
+[![Omars's GitHub stats](https://github-readme-stats.vercel.app/api?username=0marKhan)](https://github.com/anuraghazra/github-readme-stats)
+
