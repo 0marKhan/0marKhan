@@ -34,9 +34,8 @@ Web Developer
 ### My GitHub History 📈
 
 
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=0marKhan&show_icons=true&theme=tokyonight)
-   
-![Omars's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0marKhan&show_icons=true&theme=tokyonight&layout=compact)
+[![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=0marKhan&show_icons=true&theme=tokyonight)](https://github.com/0marKhan)
+[![Omar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0marKhan&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/0marKhan)
 
    
 
