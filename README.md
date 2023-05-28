@@ -34,10 +34,9 @@ Web Developer
 ### My GitHub History 📈
 
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=0marKhan&show_icons=true&theme=tokyonight" alt="Omar's GitHub stats" width="45%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0marKhan&show_icons=true&theme=tokyonight&layout=compact" alt="Omar's Top Languages" width="45%" />
-</div>
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=0marKhan&show_icons=true&theme=tokyonight)
+   
+![Omars's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0marKhan&show_icons=true&theme=tokyonight&layout=compact)
 
    
 
