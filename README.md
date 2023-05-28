@@ -102,16 +102,11 @@ Web Developer
 
 ### My GitHub History 📈
 
-<table>
-  <tr>
-    <td>
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonights)
-    </td>
-    <td>
-      ![Omars's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0marKhan&show_icons=true&theme=tokyonight&layout=compact)
-    </td>
-  </tr>
-</table>
+
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonights)
+   
+![Omars's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0marKhan&show_icons=true&theme=tokyonight&layout=compact)
+   
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
