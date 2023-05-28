@@ -9,6 +9,7 @@ Web Developer
 - 🌍  I'm based in Pakistan
 - ✉️  You can contact me at [omakhan98@gmail.com](mailto:omakhan98@gmail.com)
 - 🤝  I'm open to collaborating on Websites 
+- <br><br>
 
 ### About Me 👨‍💻
 ...
@@ -31,13 +32,15 @@ Web Developer
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+- <br><br>
+
 ### My GitHub History 📈
 
 
 [![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=0marKhan&show_icons=true&theme=tokyonight)](https://github.com/0marKhan)
 [![Omar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0marKhan&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/0marKhan)
 
-   
+- <br><br>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
@@ -45,4 +48,4 @@ Web Developer
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-
+- <br><br>
