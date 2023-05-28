@@ -101,12 +101,12 @@ Web Developer
 </p>
 
 ### Your GitHub History 📈
-<table>
-  <tr>
-    <td>
+<table style="border-collapse: collapse;">
+  <tr style="border-bottom: 1px solid #e1e4e8;">
+    <td style="border: none; padding: 10px;">
       <img src="https://github-readme-stats.vercel.app/api?username=0marKhan&show_icons=true&theme=tokyonight" alt="Stats" width="490" height="195"/>
     </td>
-    <td>
+    <td style="border: none; padding: 10px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0marKhan&show_icons=true&theme=tokyonight&layout=compact" alt="Top Langs" width="405" height="195" />
     </td>
   </tr>
