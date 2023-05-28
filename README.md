@@ -61,7 +61,7 @@ hobbies: ["Basketball", "Music", "Gaming"]
 
 ### Your GitHub History 📈
 [![Omars's GitHub stats](https://github-readme-stats.vercel.app/api?username=0marKhan&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0marKhan&show_icons=true&theme=tokyonight&layout=compact" alt="Top Langs" width="465" height="195" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0marKhan&show_icons=true&theme=tokyonight&layout=compact" alt="Top Langs" width="435" height="195" />
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
