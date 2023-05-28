@@ -52,13 +52,14 @@ education:
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+<br><br><br>
+
 ### My GitHub History 📈
 
 
 [![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=0marKhan&show_icons=true&theme=tokyonight)](https://github.com/0marKhan)
 [![Omar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0marKhan&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/0marKhan)
 
-<br><br><br>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
