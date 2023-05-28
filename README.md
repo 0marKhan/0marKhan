@@ -41,10 +41,9 @@ hobbies: ["Basketball", "Music", "Gaming"]
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
   
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="36" height="36">
-    <path d="M6.558 3.394a1.15 1.15 0 00-.607.607l-3.456 6.912A1.15 1.15 0 003 12v6.207a1.147 1.147 0 001.147 1.147H9.69a1.147 1.147 0 001.147-1.147V12a1.15 1.15 0 00-.495-.95L6.558 3.394zm1.789 1.616L12 5.986l3.653-1.976a1.15 1.15 0 011.606.55l3.456 6.913a1.15 1.15 0 01-.55 1.606l-3.653 1.976 3.653 1.976a1.15 1.15 0 01.55 1.606l-3.456 6.912a1.147 1.147 0 01-1.606.55L12 18.014l-3.653 1.976a1.147 1.147 0 01-1.606-.55l-3.456-6.912a1.15 1.15 0 01.55-1.606L6.442 12 2.789 10.024a1.15 1.15 0 01-.55-1.606l3.456-6.912a1.147 1.147 0 011.606-.55z"/>
-  </svg>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.17.1/icons/tailwindcss.svg" width="36" height="36" alt="Tailwind CSS" />
 </a>
+
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
