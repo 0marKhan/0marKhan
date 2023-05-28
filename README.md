@@ -105,10 +105,10 @@ Web Developer
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=0marKhan&show_icons=true&theme=tokyonight" alt="Stats" width="490" height="195"/>
+      ![Omars's GitHub stats](https://github-readme-stats.vercel.app/api?username=0marKhan&show_icons=true&theme=tokyonight)
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0marKhan&show_icons=true&theme=tokyonight&layout=compact" alt="Top Langs" width="405" height="195" />
+      ![Omars's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0marKhan&show_icons=true&theme=tokyonight&layout=compact)
     </td>
   </tr>
 </table>
