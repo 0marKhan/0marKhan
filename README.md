@@ -9,7 +9,9 @@ Web Developer
 - 🌍  I'm based in Pakistan
 - ✉️  You can contact me at [omakhan98@gmail.com](mailto:omakhan98@gmail.com)
 - 🤝  I'm open to collaborating on Websites 
-- <a href="[your_linkedin_profile_url](https://www.linkedin.com/in/omar-kkhan/)" target="_blank" rel="noreferrer"><img src="linkedin_icon_url" width="36" height="36" alt="LinkedIn" /></a>
+- <a href="[https://www.linkedin.com/in/omar-kkhan](https://www.linkedin.com/in/omar-kkhan/)">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
 <br><br><br>
 
 ### About Me 👨‍💻
