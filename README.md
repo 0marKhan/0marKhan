@@ -52,5 +52,5 @@ hobbies: ["Basketball", "Music", "Gaming"]
 </p>
 
 ### Your GitHub History 📈
-[![Omars's GitHub stats](https://github-readme-stats.vercel.app/api?username=0marKhan)](https://github.com/anuraghazra/github-readme-stats)
+[![Omars's GitHub stats](https://github-readme-stats.vercel.app/api?username=0marKhan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
