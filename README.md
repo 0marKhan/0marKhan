@@ -64,4 +64,7 @@ hobbies: ["Basketball", "Music", "Gaming"]
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0marKhan&show_icons=true&theme=tokyonight&layout=compact" alt="Top Langs" width="530" height="195" />
 
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+
 
