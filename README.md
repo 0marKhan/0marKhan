@@ -69,8 +69,9 @@ education:
 <!-- [![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=0marKhan&show_icons=true&theme=tokyonight)](https://github.com/0marKhan)
 [![Omar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0marKhan&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/0marKhan) -->
 
-[![Omar's GitHub stats](https://example.com/path/to/github-stats.png)](https://github.com/0marKhan)
-[![Omar's Top Languages](https://example.com/path/to/top-languages.png)](https://github.com/0marKhan)
+<img src="https://example.com/path/to/github-stats.png" alt="Omar's GitHub stats" style="height: 150px; width: auto;">
+<img src="https://example.com/path/to/top-languages.png" alt="Omar's Top Languages" style="height: 150px; width: auto;">
+
 
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
