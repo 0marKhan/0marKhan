@@ -14,6 +14,9 @@ Web Developer
     </a>!
 <br><br><br>
 
+
+
+
 ### About Me🧍
 ```yaml
 name: Omar Khan
@@ -31,6 +34,7 @@ education:
     "UI/UX"
   ]
 ```
+
 
 
 ### <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
@@ -52,6 +56,8 @@ education:
 </p>
 
 <br><br><br>
+
+
 
 ### My GitHub History 📈
 
