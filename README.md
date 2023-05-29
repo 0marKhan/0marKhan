@@ -2,12 +2,13 @@
 
 Hi 👋 My name is Omar Khan
 =============================
-
+[![Email Badge](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:omakhan98@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omar-kkhan/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]<!-- add portfolio link here -->
 Web Developer
 -------------
 
 - 🌍  I'm based in Pakistan
-- ✉️  You can contact me at [omakhan98@gmail.com](mailto:omakhan98@gmail.com)
 - 🤝  I'm open to collaborating on Websites 
 - Lets on connect on <a href="https://www.linkedin.com/in/omar-kkhan/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
