@@ -69,14 +69,9 @@ education:
 <!-- [![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=0marKhan&show_icons=true&theme=tokyonight)](https://github.com/0marKhan)
 [![Omar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0marKhan&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/0marKhan) -->
 
-<p align="center">
-  <a href="https://github.com/0marKhan">
-    <img src="https://example.com/path/to/github-stats.png" alt="Omar's GitHub stats" height="150" style="margin-right: 10px;">
-  </a>
-  <a href="https://github.com/0marKhan">
-    <img src="https://example.com/path/to/top-languages.png" alt="Omar's Top Languages" height="150" style="margin-left: 10px;">
-  </a>
-</p>
+[![Omar's GitHub stats](https://example.com/path/to/github-stats.png)](https://github.com/0marKhan) <!-- GitHub stats image -->
+[![Omar's Top Languages](https://example.com/path/to/top-languages.png)](https://github.com/0marKhan) <!-- Top languages image -->
+
 
 
 
