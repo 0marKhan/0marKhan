@@ -59,7 +59,7 @@ education:
 <a href="https://github.com/https://github.com/0marKhan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0marKhan&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/0marKhan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=0marKhan&show_icons=true&line_height=27&show_icons=true&theme=tokyonight" alt="Omar's GitHub Stats" />
 </a>
 
