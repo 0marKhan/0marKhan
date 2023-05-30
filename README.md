@@ -12,9 +12,7 @@ Web Developer
 
 - 🌍  I'm based in Pakistan
 - 🤝  I'm open to collaborating on Websites 
-- Lets on connect on <a href="https://www.linkedin.com/in/omar-kkhan/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>!
+
 <br><br><br>
 
 
