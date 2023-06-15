@@ -10,7 +10,7 @@ Hi 👋 My name is Omar Khan
 Web Developer
 -------------
 
-- 🌍  I'm based in Pakistan
+- 🌍  I'm a US national based in Pakistan
 - 🤝  I'm open to collaborating on Websites 
 
 <br><br><br>
