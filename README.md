@@ -9,7 +9,6 @@ Hi 👋 My name is Omar Khan
 Web Developer
 -------------
 
-- 🌍  I'm a US national
 - 🤝  I'm open to collaborating on Websites
 - ✉️ Mail me at omakhan98@gmail.com
 
@@ -21,7 +20,7 @@ Web Developer
 ### About Me🧍
 ```yaml
 name: Omar Khan
-located_in: Islamabad, Pakistan
+located_in: Centralia, Illinois
 current_job: Student
 education:
   [
