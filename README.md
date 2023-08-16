@@ -21,7 +21,7 @@ Web Developer
 ```yaml
 name: Omar Khan
 located_in: Centralia, Illinois
-current_job: Student
+current_job: Fresh Graduate
 education:
   [
     "Self taught Developer and Designer",
