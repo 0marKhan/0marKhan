@@ -9,7 +9,7 @@ Hi 👋 My name is Omar Khan
 Web Developer
 -------------
 
-- 🌍  I'm a US national based in Pakistan
+- 🌍  I'm a US national
 - 🤝  I'm open to collaborating on Websites
 - ✉️ Mail me at omakhan98@gmail.com
 
