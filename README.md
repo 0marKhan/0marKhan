@@ -20,7 +20,7 @@ Web Developer
 ### About Me🧍
 ```yaml
 name: Omar Khan
-located_in: Centralia, Illinois
+located_in: Champaign, Illinois
 current_job: Fresh Graduate
 education:
   [
