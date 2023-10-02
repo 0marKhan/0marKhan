@@ -84,7 +84,9 @@ education:
 
 <br><br><br>
 
+[![@omarkhan's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@omarkhan)
 
+<br><br><br>
 
 ### My GitHub History 📈
 
