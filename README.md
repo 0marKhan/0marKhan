@@ -78,7 +78,7 @@ education:
 </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
