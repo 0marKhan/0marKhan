@@ -24,7 +24,6 @@ located_in: Champaign, Illinois
 current_job: Fresh Graduate
 education:
   [
-    "Self taught Developer and Designer",
     "Bachelors in Computer Science"
   ]
   
