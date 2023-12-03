@@ -30,7 +30,6 @@ education:
  fields_of_interest:
   [
     "Frontend Web Development",
-    "UI/UX"
   ]
 ```
 
