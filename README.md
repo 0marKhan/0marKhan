@@ -29,7 +29,8 @@ education:
   
  fields_of_interest:
   [
-    "Frontend Web Development",
+    "Fullstack Web Development",
+    "UI/UX design"
   ]
 ```
 
